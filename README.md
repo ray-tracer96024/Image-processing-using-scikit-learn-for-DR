@@ -1,1 +1,1 @@
-"# Practice-image-processing" 
+# Practice-image-processing
